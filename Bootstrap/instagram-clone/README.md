@@ -1,6 +1,7 @@
-# instagrambootstrapclone
-Simple HTML Instagram clone made with Bootstrap.
-Here is my instagram clone design.
+<h1>About</h1>
+<p>This project is patika.dev's Instagram Clone project.</p>
 
-![alt text](screenshots/1.png)
-![alt text](screenshots/2.png)
+<h2>Technologies</h2>
+
+<li>HTML</li>
+<li>Bootstrap</li>
